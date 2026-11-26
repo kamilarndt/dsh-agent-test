@@ -4,4 +4,4 @@ jobs:
   hello:
     runs-on: ubuntu-latest
     steps:
-      - run: echo znowu-zielono
+      - run: echo psuje-ponownie && exit 1

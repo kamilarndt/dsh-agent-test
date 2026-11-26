@@ -4,4 +4,4 @@ jobs:
   hello:
     runs-on: ubuntu-latest
     steps:
-      - run: echo psuje-ponownie && exit 1
+      - run: echo zielono-po-admission
